@@ -138,4 +138,4 @@ The app requests the following permissions:
 
 ## License
 
-This project is proprietary software developed by Studio Shadows. All rights reserved.
+This project is proprietary software developed by ShadowStudio Prod. All rights reserved.
